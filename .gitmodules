@@ -1,0 +1,6 @@
+[submodule "tool/MobDebug"]
+	path = tool/MobDebug
+	url = https://github.com/pkulchenko/MobDebug
+[submodule "lib/lua-printTable"]
+	path = lib/lua-printTable
+	url = https://github.com/subject546/lua-printTable
